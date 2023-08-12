@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yukai Guo, a 2rd-year Ph.D. student in Software Engineering, Tsinghua University, advised by <a href='http://shixialiu.com/'>Prof. Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
+I am Yukai Guo, a 2nd-year Ph.D. student in Software Engineering, Tsinghua University, advised by <a href='http://shixialiu.com/'>Prof. Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
 
 My research interest includes visual analytics.
 <!-- <a href='https://scholar.google.com/citations?user=SCHOLAR_ID'>google scholar citations <strong><span id='total_cit'>cnt</span></strong></a>. -->
