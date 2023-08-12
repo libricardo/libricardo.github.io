@@ -36,9 +36,10 @@ My research interest includes visual analytics.
 
 Changjian Chen*, <u>Yukai Guo*</u>, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu
 
-[**Homepage**](http://uni-evaluator.thuvis.org/) | [**Code**](https://github.com/thu-vis/Uni-Evaluator) | [**Arxiv**](https://arxiv.org/abs/2308.05168)
-
 - Uni-Evaluator is a visual analysis tool to support a unified model evaluation for different computer vision tasks, including classification, object detection, and instance segmentation.
+
+[**Homepage**](http://uni-evaluator.thuvis.org/) [**Code**](https://github.com/thu-vis/Uni-Evaluator) [**Arxiv**](https://arxiv.org/abs/2308.05168)
+
 </div>
 </div>
 
