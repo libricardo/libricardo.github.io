@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yukai Guo, a 2nd-year Ph.D. student in Software Engineering, Tsinghua University, advised by <a href='http://shixialiu.com/'>Prof. Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
+I am Yukai Guo, a 2nd-year Ph.D. student in Software Engineering, Tsinghua University, advised by Prof. <a href='http://shixialiu.com/'>Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
 
 My research interest includes visual analytics.
 <!-- <a href='https://scholar.google.com/citations?user=SCHOLAR_ID'>google scholar citations <strong><span id='total_cit'>cnt</span></strong></a>. -->
@@ -25,7 +25,7 @@ My research interest includes visual analytics.
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 One paper accepted in IEEE VIS 2023.
+- *2023.07*: &nbsp;🎉🎉 Our paper Uni-Evaluator accepted in IEEE VIS 2023.
 
 # 📝 Publications 
 
@@ -49,6 +49,7 @@ Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaow
 # 📖 Educations
 - *2022.08 - (now)*, Ph.D., School of Software, Tsinghua University. 
 - *2018.08 - 2022.06*, Bachelor, School of Software, Tsinghua University.
+- *2012.08 - 2018.06*, the Affiliated High School of South China Normal University, Guangzhou.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -56,5 +57,7 @@ Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaow
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+---
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=fm5C3WMNPHPYGxFdj99LU8crKv-cPZqV3iD2AtNTk2c'></script>
