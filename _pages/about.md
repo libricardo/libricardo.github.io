@@ -57,4 +57,4 @@ Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaow
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=fm5C3WMNPHPYGxFdj99LU8crKv-cPZqV3iD2AtNTk2c&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=fm5C3WMNPHPYGxFdj99LU8crKv-cPZqV3iD2AtNTk2c'></script>
