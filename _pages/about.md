@@ -25,7 +25,8 @@ My research interest includes visual analytics.
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 Our paper Uni-Evaluator accepted in IEEE VIS 2023.
+- *2023.07*: &nbsp;💬 I presented our work Uni-Evaluator at <a href='https://chinavis.org/2023/index.html'>ChinaVis 2023</a>. 📍Chongqing, China.
+- *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>! 📍Melbourne, Australia.
 
 # 📝 Publications 
 
@@ -36,6 +37,8 @@ My research interest includes visual analytics.
 
 Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu
 
+IEEE Visualization Conference 2023
+
 - Uni-Evaluator is a visual analysis tool to support a unified model evaluation for different computer vision tasks, including classification, object detection, and instance segmentation.
 
 [**Homepage**](http://uni-evaluator.thuvis.org/) \| [**Code**](https://github.com/thu-vis/Uni-Evaluator) \| [**Arxiv**](https://arxiv.org/abs/2308.05168)
@@ -44,12 +47,18 @@ Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaow
 </div>
 
 
-<!-- # 🎖 Honors and Awards -->
-
 # 📖 Educations
-- *2022.08 - (now)*, Ph.D., School of Software, Tsinghua University. 
-- *2018.08 - 2022.06*, Bachelor, School of Software, Tsinghua University.
+- *2022.08 - (now)*, Ph.D. in Software Engineering, School of Software, Tsinghua University. 
+- *2018.08 - 2022.06*, Bachelor in Software Engineering, School of Software, Tsinghua University.
 - *2012.08 - 2018.06*, the Affiliated High School of South China Normal University, Guangzhou.
+
+
+# 🎖 Honors and Awards
+- Outstanding Graduates of Tsinghua (清华大学优秀毕业生, Top 2%), 2022
+- Outstanding Graduates of Beijing (北京市优秀毕业生, Top 5%), 2022
+- National Scholarship (国家奖学金, Top 1%), 2021
+- "Jiang Nanxiang" Scholarship of Tsinghua (<a href='http://www.tuef.tsinghua.edu.cn/info/jxj/1093'>清华大学蒋南翔奖学金</a>, Top 1%), 2020
+- "Yier Jiu" Scholarship of Tsinghua (<a href='http://www.tuef.tsinghua.edu.cn/info/jxj/1094'>清华大学“一二·九”奖学金</a>, Top 1%), 2019
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
