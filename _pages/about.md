@@ -54,8 +54,8 @@ IEEE Visualization Conference 2023
 
 
 # 🎖 Honors and Awards
-- Outstanding Graduates of Tsinghua (清华大学优秀毕业生, Top 2%), 2022
-- Outstanding Graduates of Beijing (北京市优秀毕业生, Top 5%), 2022
+- Outstanding Undergraduate of Tsinghua University (清华大学优秀毕业生, Top 2%), 2022
+- Outstanding Undergraduate of Beijing (北京市优秀毕业生, Top 5%), 2022
 - National Scholarship (国家奖学金, Top 1%), 2021
 - "Jiang Nanxiang" Scholarship of Tsinghua (<a href='http://www.tuef.tsinghua.edu.cn/info/jxj/1093'>清华大学蒋南翔奖学金</a>, Top 1%), 2020
 - "Yier Jiu" Scholarship of Tsinghua (<a href='http://www.tuef.tsinghua.edu.cn/info/jxj/1094'>清华大学“一二·九”奖学金</a>, Top 1%), 2019
