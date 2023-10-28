@@ -25,8 +25,9 @@ My research interest includes visual analytics.
 
 
 # 🔥 News
-- *2023.07*: &nbsp;💬 I presented our work Uni-Evaluator at <a href='https://chinavis.org/2023/index.html'>ChinaVis 2023</a>. 📍Chongqing, China.
-- *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>! 📍Melbourne, Australia.
+- *2023.10*: &nbsp;💬 I present our work Uni-Evaluator in *Image and Video* session of <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>. 📍Melbourne, Australia.
+- *2023.07*: &nbsp;💬 I present our work Uni-Evaluator at <a href='https://chinavis.org/2023/index.html'>ChinaVis 2023</a>. 📍Chongqing, China.
+- *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>!
 
 # 📝 Publications 
 
@@ -37,11 +38,12 @@ My research interest includes visual analytics.
 
 Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu
 
-IEEE Visualization Conference 2023
+IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to appear
+<!-- , 30(1):551-561 -->
 
 - Uni-Evaluator is a visual analysis tool to support a unified model evaluation for different computer vision tasks, including classification, object detection, and instance segmentation.
 
-[**Homepage**](http://uni-evaluator.thuvis.org/) \| [**Code**](https://github.com/thu-vis/Uni-Evaluator) \| [**Arxiv**](https://arxiv.org/abs/2308.05168)
+[**Homepage**](http://uni-evaluator.thuvis.org/) \| [**Code**](https://github.com/thu-vis/Uni-Evaluator) \| [**Arxiv**](https://arxiv.org/abs/2308.05168) \| [**IEEE**](https://ieeexplore.ieee.org/document/10297566)
 
 </div>
 </div>
