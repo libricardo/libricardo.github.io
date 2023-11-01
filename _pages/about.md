@@ -29,7 +29,7 @@ My research interest includes visual analytics.
 - *2023.07*: &nbsp;💬 I present our work Uni-Evaluator at <a href='https://chinavis.org/2023/index.html'>ChinaVis 2023</a>. 📍Chongqing, China.
 - *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>!
 
-# 📝 Publications 
+# ✍️ Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/Uni-Evaluator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,13 +49,13 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to ap
 </div>
 
 
-# 📖 Educations
+# 🎒 Educations
 - *2022.08 - (now)*, Ph.D. in Software Engineering, School of Software, Tsinghua University. 
 - *2018.08 - 2022.06*, Bachelor in Software Engineering, School of Software, Tsinghua University.
 - *2012.08 - 2018.06*, the Affiliated High School of South China Normal University, Guangzhou.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - Outstanding Undergraduate of Tsinghua University (清华大学优秀毕业生, Top 2%), 2022
 - Outstanding Undergraduate of Beijing (北京市优秀毕业生, Top 5%), 2022
 - National Scholarship (国家奖学金, Top 1%), 2021
@@ -68,6 +68,16 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to ap
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 🤝 Services
+- Student Volunteer
+  - IEEE VIS (2023)
+- Reviewer
+  - ChinaVis (2023)
+  - PacificVis (2024)
+- Teaching Assistant
+  - Discrete Mathematics I (2022-2023)
+
 
 ---
 
