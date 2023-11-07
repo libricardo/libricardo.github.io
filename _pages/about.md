@@ -30,7 +30,6 @@ My research interest includes visual analytics.
 - *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>!
 
 # ✍️ Publications
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/Uni-Evaluator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,6 +58,7 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to ap
 - Outstanding Undergraduate of Tsinghua University (清华大学优秀毕业生, Top 2%), 2022
 - Outstanding Undergraduate of Beijing (北京市优秀毕业生, Top 5%), 2022
 - National Scholarship (国家奖学金, Top 1%), 2021
+
 <!-- - "Jiang Nanxiang" Scholarship of Tsinghua (清华大学蒋南翔奖学金, Top 1%), 2020
 - "Yier Jiu" Scholarship of Tsinghua (清华大学“一二·九”奖学金, Top 1%), 2019 -->
 
