@@ -3,9 +3,9 @@ permalink: /memory
 title: ""
 excerpt: ""
 author_profile: false
-redirect_from: 
-  - /memory/
-  - /memory.html
+# redirect_from: 
+#   - /memory/
+#   - /memory.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
