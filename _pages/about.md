@@ -29,7 +29,10 @@ My research interest includes visual analytics.
 - *2023.07*: &nbsp;💬 I present our work Uni-Evaluator at <a href='https://chinavis.org/2023/index.html'>ChinaVis 2023</a>. 📍Chongqing, China.
 - *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>!
 
+<span class='anchor' id='publications'></span>
+
 # ✍️ Publications
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/Uni-Evaluator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
