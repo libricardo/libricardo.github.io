@@ -45,6 +45,8 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to ap
 
 - Uni-Evaluator is a visual analysis tool to support a unified model evaluation for different computer vision tasks, including classification, object detection, and instance segmentation.
 
+- We further cleaned the annotations of the COCO validation dataset after the case study shown in our paper. The COCO-format annotation file can be downloaded via [this link](https://cloud.tsinghua.edu.cn/f/565b84bb76e840d7ace7/?dl=1).
+
 [**Homepage**](http://uni-evaluator.thuvis.org/) \| [**Code**](https://github.com/thu-vis/Uni-Evaluator) \| [**Arxiv**](https://arxiv.org/abs/2308.05168) \| [**IEEE**](https://ieeexplore.ieee.org/document/10297566)
 
 </div>
