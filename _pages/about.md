@@ -52,6 +52,20 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to ap
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/Reweighter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Interactive Reweighting for Mitigating Label Quality Issues**
+
+Weikai Yang, **Yukai Guo**, Jing Wu, Zheng Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia Liu
+
+IEEE Transactions on Visualization and Computer Graphics, to appear
+<!-- , 30(1):551-561 -->
+
+[**Code**](https://github.com/thu-vis/Reweighter) \| [**Arxiv**](https://arxiv.org/abs/2312.05067)
+
+</div>
+</div>
 
 # 🎒 Educations
 - *2022.08 - (now)*, Ph.D. in Software Engineering, School of Software, Tsinghua University. 
