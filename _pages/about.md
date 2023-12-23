@@ -62,7 +62,7 @@ Weikai Yang, **Yukai Guo**, Jing Wu, Zheng Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia
 IEEE Transactions on Visualization and Computer Graphics, to appear
 <!-- , 30(1):551-561 -->
 
-[**Code**](https://github.com/thu-vis/Reweighter) \| [**Arxiv**](https://arxiv.org/abs/2312.05067)
+[**Code**](https://github.com/thu-vis/Reweighter) \| [**Arxiv**](https://arxiv.org/abs/2312.05067) \| [**IEEE**](https://ieeexplore.ieee.org/document/10368332)
 
 </div>
 </div>
