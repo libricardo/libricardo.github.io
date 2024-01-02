@@ -40,8 +40,7 @@ My research interest includes visual analytics.
 
 Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu
 
-IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to appear
-<!-- , 30(1):551-561 -->
+IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), 30(1):76-86
 
 - Uni-Evaluator is a visual analysis tool to support a unified model evaluation for different computer vision tasks, including classification, object detection, and instance segmentation.
 
