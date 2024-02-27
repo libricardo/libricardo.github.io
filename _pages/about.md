@@ -58,8 +58,8 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), 30(1)
 
 Weikai Yang, **Yukai Guo**, Jing Wu, Zheng Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia Liu
 
-IEEE Transactions on Visualization and Computer Graphics, to appear
-<!-- , 30(1):551-561 -->
+IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
+<!-- , to appear -->
 
 [**Code**](https://github.com/thu-vis/Reweighter) \| [**Arxiv**](https://arxiv.org/abs/2312.05067) \| [**IEEE**](https://ieeexplore.ieee.org/document/10368332)
 
