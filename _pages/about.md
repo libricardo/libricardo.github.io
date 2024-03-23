@@ -69,7 +69,7 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
 </div>
 
 # 🎒 Educations
-- *2022.08 - (now)*, Ph.D. in Software Engineering, School of Software, Tsinghua University. 
+- *2022.08 - (now)*, Software Engineering, School of Software, Tsinghua University. 
 - *2018.08 - 2022.06*, Bachelor in Software Engineering, School of Software, Tsinghua University.
 - *2012.08 - 2018.06*, the Affiliated High School of South China Normal University, Guangzhou.
 
