@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yukai Guo"
-description              : "Ph.D. student at Tsinghua University"
+description              : "Always exploring..."
 repository               : "libricardo/libricardo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -40,7 +40,7 @@ author:
   github           : "libricardo"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "libricardo_2000"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
