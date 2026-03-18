@@ -121,11 +121,11 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
 
 # 💻 Internships
 - *2021.01 - 2021.07*, Sensetime.
-- *2025.10 - *, Canva CORE.
+- *2025.10 -* , Canva CORE-CN.
 
 
 # 🤝 Services
-- Student Volunteer: IEEE VIS (2023)
+- Student Volunteer: VIS (2023)
 - Reviewer: VIS, PacificVis, IUI, ChinaVis, CADCG
 - Teaching Assistant: Discrete Mathematics I
 
