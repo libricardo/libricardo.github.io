@@ -43,9 +43,9 @@ My research interest includes visual analytics and infographics authoring.
 
 🏅 *Honorable Mention Award*
 
-**Yukai Guo**\*, Lanxi Xiao*, Xinhuan Shu, Qiong Wu, Bongshin Lee, Shixia Liu
+**Yukai Guo**\*, Lanxi Xiao\*, Xinhuan Shu, Qiong Wu, Bongshin Lee, Shixia Liu
 
-ACM CHI Conference on Human Factors in Computing Systems, 2026
+ACM Conference on Human Factors in Computing Systems (CHI), 2026
 
 [**CHI**](https://programs.sigchi.org/chi/2026/program/content/222416)
 
@@ -57,7 +57,7 @@ ACM CHI Conference on Human Factors in Computing Systems, 2026
 
 **ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**
 
-Zhen Li*, Duan Li*, **Yukai Guo**\*, Xinyuan Guo*, Bowen Li*, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu
+Zhen Li\*, Duan Li\*, **Yukai Guo**\*, Xinyuan Guo\*, Bowen Li\*, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu
 
 International Conference on Learning Representations (ICLR), 2026
 
@@ -71,7 +71,7 @@ International Conference on Learning Representations (ICLR), 2026
 
 **A Unified Interactive Model Evaluation for Classification, Object Detection, and Instance Segmentation in Computer Vision**
 
-Changjian Chen*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu
+Changjian Chen\*, **Yukai Guo**\*, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu
 
 IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), 30(1):76-86
 
