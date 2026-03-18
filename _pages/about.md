@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- I am Yukai Guo, studying in the School of Software, Tsinghua University, advised by Prof. Shixia Liu. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022). -->
-I am Yukai Guo, a 3rd-year Ph.D. student in Software Engineering, Tsinghua University, advised by Prof. <a href='http://shixialiu.com/'>Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
+I am Yukai Guo, a 4th-year Ph.D. student in Software Engineering, Tsinghua University, advised by Prof. <a href='http://shixialiu.com/'>Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
 
 <!-- My research interest includes visual analytics. -->
 My research interest includes visual analytics and infographics authoring.
@@ -27,14 +27,44 @@ My research interest includes visual analytics and infographics authoring.
 <!-- (You can also use google scholar badge <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2023.10*: &nbsp;💬 I present our work Uni-Evaluator in *Image and Video* session of <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>. 📍Melbourne, Australia.
 - *2023.07*: &nbsp;💬 I present our work Uni-Evaluator at <a href='https://chinavis.org/2023/index.html'>ChinaVis 2023</a>. 📍Chongqing, China.
-- *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>!
+- *2023.07*: &nbsp;🎉 Our paper Uni-Evaluator is accepted by <a href='https://ieeevis.org/year/2023/welcome'>IEEE VIS 2023</a>! -->
 
 <span class='anchor' id='publications'></span>
 
 # ✍️ Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/Metaphor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unpacking Visual Metaphors in Infographics: A Design Space**
+
+🏅 *Honorable Mention Award*
+
+**Yukai Guo**\*, Lanxi Xiao*, Xinhuan Shu, Qiong Wu, Bongshin Lee, Shixia Liu
+
+ACM CHI Conference on Human Factors in Computing Systems, 2026
+
+[**CHI**](https://programs.sigchi.org/chi/2026/program/content/222416)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/ChartGalaxy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**
+
+Zhen Li*, Duan Li*, **Yukai Guo**\*, Xinyuan Guo*, Bowen Li*, Lanxi Xiao, Shenyu Qiao, Jiashu Chen, Zijian Wu, Hui Zhang, Xinhuan Shu, Shixia Liu
+
+International Conference on Learning Representations (ICLR), 2026
+
+[**OpenReview**](https://openreview.net/forum?id=P4lFbvZ4HH) \| [**Arxiv**](https://arxiv.org/abs/2505.18668) \| [**Code**](https://github.com/ChartGalaxy/ChartGalaxy) \| [**Dataset**](https://huggingface.co/datasets/ChartGalaxy/ChartGalaxy)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/Uni-Evaluator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +106,7 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
 
 
 # 🏆 Honors and Awards
+- Honorable Mention Award, ACM CHI, 2026
 - Outstanding Undergraduate of Tsinghua University (清华大学优秀毕业生, Top 2%), 2022
 - Outstanding Undergraduate of Beijing (北京市优秀毕业生, Top 5%), 2022
 - National Scholarship (国家奖学金, Top 1%), 2021
@@ -88,10 +119,18 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Internships
+- *2021.01 - 2021.07*, Sensetime.
+- *2025.10 - *, Canva CORE.
+
 
 # 🤝 Services
+- Student Volunteer: IEEE VIS (2023)
+- Reviewer: VIS, PacificVis, IUI, ChinaVis, CADCG
+- Teaching Assistant: Discrete Mathematics I
+
+
+<!-- # 🤝 Services
 - Student Volunteer
   - IEEE VIS (2023)
 - Reviewer
@@ -100,7 +139,7 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
   - IUI (2025)
   - ChinaVis (2023,2024)
 - Teaching Assistant
-  - Discrete Mathematics I (2022-2023)
+  - Discrete Mathematics I (2022-2023) -->
 
 
 ---
