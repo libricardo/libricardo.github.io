@@ -41,13 +41,13 @@ My research interest includes visual analytics and infographics authoring.
 
 **Unpacking Visual Metaphors in Infographics: A Design Space**
 
-🏅 *Honorable Mention Award*
+🏅 ***Honorable Mention Award***
 
 **Yukai Guo**\*, Lanxi Xiao\*, Xinhuan Shu, Qiong Wu, Bongshin Lee, Shixia Liu
 
 ACM Conference on Human Factors in Computing Systems (CHI), 2026
 
-[**CHI**](https://programs.sigchi.org/chi/2026/program/content/222416)
+[**CHI**](https://programs.sigchi.org/chi/2026/program/content/222416) \| [**Dataset**](https://drive.google.com/drive/folders/17SZimaMw0d1WVS7OKRNRMADKo147AIWv?usp=sharing)
 
 </div>
 </div>
