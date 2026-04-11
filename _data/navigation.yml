@@ -17,6 +17,9 @@ main:
   
   - title: "Services"
     url: "/#-services"
+  
+  - title: "Life"
+    url: "/memory"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"

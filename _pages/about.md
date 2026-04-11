@@ -85,4 +85,4 @@ IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023), to ap
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=fm5C3WMNPHPYGxFdj99LU8crKv-cPZqV3iD2AtNTk2c'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=fm5C3WMNPHPYGxFdj99LU8crKv-cPZqV3iD2AtNTk2c'></script> -->
