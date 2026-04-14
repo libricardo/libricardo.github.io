@@ -47,7 +47,7 @@ My research interest includes visual analytics and infographics authoring.
 
 ACM Conference on Human Factors in Computing Systems (CHI), 2026
 
-[**CHI**](https://programs.sigchi.org/chi/2026/program/content/222416) \| [**Dataset**](https://drive.google.com/drive/folders/17SZimaMw0d1WVS7OKRNRMADKo147AIWv?usp=sharing)
+[**ACM**](https://dl.acm.org/doi/10.1145/3772318.3790840) \| [**CHI**](https://programs.sigchi.org/chi/2026/program/content/222416) \| [**Dataset**](https://drive.google.com/drive/folders/17SZimaMw0d1WVS7OKRNRMADKo147AIWv?usp=sharing)
 
 </div>
 </div>
