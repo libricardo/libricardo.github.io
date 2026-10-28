@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- I am Yukai Guo, studying in the School of Software, Tsinghua University, advised by Prof. Shixia Liu. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022). -->
-I am Yukai Guo, a 4th-year Ph.D. candidate in Software Engineering, Tsinghua University, advised by Prof. <a href='http://shixialiu.com/'>Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
+I am Yukai Guo, a 5th-year Ph.D. candidate in Software Engineering, Tsinghua University, advised by Prof. <a href='http://shixialiu.com/'>Shixia Liu</a>. Prior to that, I was an undergraduate student at Tsinghua University, where I majored in Software Engineering (2018-2022) and minored in Psychology (2019-2022).
 
 <!-- My research interest includes visual analytics. -->
-My research interest includes visual analytics and infographics authoring.
+My research interest includes visual analytics and graphic design generation.
 
 <!-- <a href='https://scholar.google.com/citations?user=SCHOLAR_ID'>google scholar citations <strong><span id='total_cit'>cnt</span></strong></a>. -->
 <!-- (You can also use google scholar badge <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">). -->
@@ -144,4 +144,4 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=fm5C3WMNPHPYGxFdj99LU8crKv-cPZqV3iD2AtNTk2c'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=I_kcB5dWikqitdTbwCNpq76yRHZY-el4GrjzEGxRpFI&cmo=999999'></script>
