@@ -144,4 +144,4 @@ IEEE Transactions on Visualization and Computer Graphics, 30(3):1837-1852
 
 ---
 
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=m&d=I_kcB5dWikqitdTbwCNpq76yRHZY-el4GrjzEGxRpFI&cmo=999999'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=200&t=m&d=I_kcB5dWikqitdTbwCNpq76yRHZY-el4GrjzEGxRpFI&cmo=999999'></script>
